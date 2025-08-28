@@ -10,11 +10,15 @@ O Projeto Cordel traz para a tela um poema de Milton Duarte, transformando texto
 
 🔗 [**Acesse o site aqui**](https://brenojramos.github.io/Projeto-Cordel/)
 
+---
+
 🛠️ Tecnologias utilizadas
 
 HTML5 → Estrutura da página
 
 CSS3 → Estilização e responsividade
+
+---
 
 🎯 Objetivos de aprendizagem
 
@@ -25,6 +29,8 @@ Trabalhar posicionamento e estilos com CSS
 Experimentar com layout responsivo
 
 Exercitar a criatividade trazendo um tema cultural
+
+---
 
 ✨ Resultado
 
